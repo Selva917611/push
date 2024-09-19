@@ -1,1 +1,2 @@
 Push it to git 
+pull this file to server
